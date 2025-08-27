@@ -27,7 +27,7 @@ POPTAB.Museum is a community-driven, open-source archive of identified pull tabs
 We want this to feel like a community effort where *you* help curate the global collection.  
 
 1. **Share Tabs** → Post images of tabs you’ve found (open an [Issue](../../issues))  
-2. **Classify** → Help ID and classify tabs by brand, type, and variation  
+2. **Classify** → Help ID and classify tabs by brand, type and variation  
 3. **Debate & Discuss** → Jump into the [Discussions](../../discussions) board  
 4. **Improve Data** → Add missing entries or correct mistakes via **Pull Requests** (*pun intended*)  
 5. **Spread the Word** → Link the repo, join the hunt, share your collection  
@@ -37,7 +37,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 ---
 
 ## 🌍 Community Vibe  
-This isn’t just a database — it’s a cultural experiment in collection, memory, and meaning.  
+This isn’t just a database — it’s a cultural experiment in finding value in collaborative collecting.
 
 - Tabs are **artifacts**  
 - Tabs are **memes**  
